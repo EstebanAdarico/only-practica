@@ -1,0 +1,31 @@
+.user {
+   display: block;
+   margin-top: 400px;
+   background-color: rgb(26, 24, 26);
+
+}
+
+.user h1 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: aliceblue;
+
+
+}
+
+.user p {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: green;
+   margin: auto;
+}
+
+h3 {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin: auto;
+   color: aquamarine;
+}
